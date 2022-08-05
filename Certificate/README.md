@@ -1,2 +1,2 @@
 # Certificate
-This is where I placed my certficate
+This is where I placed my certificate
